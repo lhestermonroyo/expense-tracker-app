@@ -19,7 +19,7 @@ const Header: React.FunctionComponent = () => {
             </div>
             <div className="hidden md:flex items-center justify-end md:flex-1 lg:w-0">
               <a
-                href="#"
+                href="https://github.com/lhestermonroyo/expense-tracker-app"
                 className="whitespace-nowrap text-base font-medium text-gray-100 hover:text-gray-300"
               >
                 <GithubOutlined />

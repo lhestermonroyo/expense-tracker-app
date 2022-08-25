@@ -4,7 +4,7 @@ import {
   MinusCircleFilled,
   PlusCircleFilled,
 } from '@ant-design/icons';
-import { Button, List, Skeleton, Popconfirm, notification } from 'antd';
+import { Button, List, Skeleton, Popconfirm } from 'antd';
 import CurrencyFormat from 'react-currency-format';
 import moment from 'moment';
 import { useRecoilState, useRecoilValue } from 'recoil';
